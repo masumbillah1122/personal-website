@@ -48,8 +48,23 @@ p{
 .name{
     text-align: center;
 }
-.pic{
-    height: 20px;
-    width : 20px;
-    font-size: 100%;
+img{
+    height : 300px;
+    width : 33%;
+    float : left;
+    
+}
+.latest-work-bg{
+    background-image : url("images/latest-work-bg.png");
+    background-repeat : no-repeat;
+}
+.name1{
+    text-align : center;
+}
+.footer-bg{
+    background-image : url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+footer{
+    text-align : center;
 }
